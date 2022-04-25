@@ -1,5 +1,5 @@
 {
-  "name": "@araviel/anchor",
+  "name": "@j0nnyboi/anchor",
   "version": "0.17.0",
   "description": "Anchor client",
   "main": "dist/cjs/index.js",
