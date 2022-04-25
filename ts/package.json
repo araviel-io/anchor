@@ -1,5 +1,5 @@
 {
-  "name": "@project-serum/anchor",
+  "name": "@araviel/anchor",
   "version": "0.17.0",
   "description": "Anchor client",
   "main": "dist/cjs/index.js",
@@ -23,8 +23,8 @@
     "test": "jest tests --detectOpenHandles"
   },
   "dependencies": {
-    "@project-serum/borsh": "^0.2.2",
-    "@solana/web3.js": "^1.17.0",
+    "@j0nnyboi/borsh": "^0.1.0",
+    "@safecoin/web3.js": "^1.29.4",
     "base64-js": "^1.5.1",
     "bn.js": "^5.1.2",
     "bs58": "^4.0.1",

@@ -1,6 +1,6 @@
 import camelCase from "camelcase";
 import { Layout } from "buffer-layout";
-import * as borsh from "@project-serum/borsh";
+import * as borsh from "@j0nnyboi/borsh";
 import { IdlField, IdlTypeDef, IdlEnumVariant, IdlType } from "../idl";
 import { IdlError } from "../error";
 

@@ -1,6 +1,6 @@
 import camelCase from "camelcase";
 import { Layout } from "buffer-layout";
-import * as borsh from "@project-serum/borsh";
+import * as borsh from "@j0nnyboi/borsh";
 import * as bs58 from "bs58";
 import {
   Idl,
@@ -14,7 +14,7 @@ import {
 } from "../idl";
 import { IdlCoder } from "./idl";
 import { sighash } from "./common";
-import { AccountMeta, PublicKey } from "@solana/web3.js";
+import { AccountMeta, PublicKey } from "@safecoin/web3.js";
 
 /**
  * Namespace for state method function signatures.

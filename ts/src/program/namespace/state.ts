@@ -1,6 +1,6 @@
 import EventEmitter from "eventemitter3";
 import camelCase from "camelcase";
-import { PublicKey, SystemProgram, Commitment } from "@solana/web3.js";
+import { PublicKey, SystemProgram, Commitment } from "@safecoin/web3.js";
 import Provider from "../../provider";
 import { Idl, IdlStateMethod } from "../../idl";
 import Coder, { stateDiscriminator } from "../../coder";
