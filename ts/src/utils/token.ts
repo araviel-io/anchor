@@ -1,10 +1,10 @@
 import { PublicKey } from "@safecoin/web3.js";
 
 const TOKEN_PROGRAM_ID = new PublicKey(
-  "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+  "ToKLx75MGim1d1jRusuVX8xvdvvbSDESVaNXpRA9PHN"
 );
 const ASSOCIATED_PROGRAM_ID = new PublicKey(
-  "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL"
+  "AToD9iqHSc2fhEP9Jp7UYA6mRjHQ4CTWyzCsw8X3tH7K"
 );
 
 export async function associatedAddress({
