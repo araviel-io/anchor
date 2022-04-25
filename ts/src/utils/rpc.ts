@@ -8,7 +8,7 @@ import {
   TransactionSignature,
   Transaction,
   TransactionInstruction,
-} from "@solana/web3.js";
+} from "@safecoin/web3.js";
 import { chunks } from "../utils/common.js";
 import { Address, translateAddress } from "../program/common.js";
 import Provider, { getProvider } from "../provider.js";

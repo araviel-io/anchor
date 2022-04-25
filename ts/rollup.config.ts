@@ -33,8 +33,8 @@ export default {
     terser(),
   ],
   external: [
-    "@project-serum/borsh",
-    "@solana/web3.js",
+    "@j0nnyboi/borsh",
+    "@safecoin/web3.js",
     "assert",
     "base64-js",
     "bn.js",

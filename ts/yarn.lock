@@ -855,9 +855,9 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@project-serum/borsh@^0.2.2":
+"@j0nnyboi/borsh@^0.2.2":
   version "0.2.2"
-  resolved "https://registry.npmjs.org/@project-serum/borsh/-/borsh-0.2.2.tgz"
+  resolved "https://registry.npmjs.org/@j0nnyboi/borsh/-/borsh-0.2.2.tgz"
   integrity sha512-Ms+aWmGVW6bWd3b0+MWwoaYig2QD0F90h0uhr7AzY3dpCb5e2S6RsRW02vFTfa085pY2VLB7nTZNbFECQ1liTg==
   dependencies:
     bn.js "^5.1.2"
@@ -927,9 +927,9 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@solana/web3.js@^1.17.0":
+"@safecoin/web3.js@^1.17.0":
   version "1.17.0"
-  resolved "https://registry.npmjs.org/@solana/web3.js/-/web3.js-1.17.0.tgz"
+  resolved "https://registry.npmjs.org/@safecoin/web3.js/-/web3.js-1.17.0.tgz"
   integrity sha512-PBOHY260CudciLwBgwt1U8upwCS1Jq0BbS6EVyX0tz6Tj14Dp4i87dQNyntentNiGQQ+yWBIk4vJEm+PMCSd/A==
   dependencies:
     "@babel/runtime" "^7.12.5"
